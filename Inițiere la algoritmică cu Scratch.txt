@@ -1,0 +1,19 @@
+Inițiere la algoritmică cu Scratch
+Scopul acestui document este de a furniza cunoștințe de bază în algoritmică pentru cursanții
+participă la sesiuni de formare și modelare bazate pe agenți. A fost produs pentru
+MISS-ABMSS 2015 ca o predispoziție prealabilă la distanță pentru participanții fără sau foarte puțin
+experiență în codificare computerizată și algoritmică.
+Obiectivul este ca participanții care trec prin acest document și să facă ceea ce este asociat
+exercițiile obțin definiții de bază și practică a ceea ce stă la baza codării computerizate,
+independent de orice limbaj de programare: ce sunt declarațiile, variabilele,
+proceduri, funcții, bucle și cum pot fi manipulate. De asemenea, vor primi o primă
+aruncați o privire la ceea ce este codarea computerizată orientată pe obiecte, pe care o folosim ca bază pentru programarea modelelor bazate pe agenți.
+În acest document, vom folosi Scratch1
+ pentru a dezvolta algoritmi. Are avantajul de a permite
+dezvoltatorii să implementeze algoritmi folosind instrumente de programare grafică. În fiecare secțiune a
+document, sunt date definiții de bază, iar apoi sunt propuse exerciții folosind Scratch pentru a obține un
+practica conceptelor definite.
+Majoritatea exercițiilor sunt ușoare și permit înțelegerea conceptelor. Cu toate acestea, mai provocator
+au fost inserate și exerciții. Se notează cu stele **. Începătorii ar trebui să facă mai ușor
+exerciții cu prioritate și poate păstrați exercițiile ** mai complicate pentru mai târziu!
+Soluțiile la exerciții sunt date chiar la sfârșitul documentului.

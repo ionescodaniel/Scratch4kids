@@ -1,0 +1,1128 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Home\\Documents\\Camtasia\\Rec 09-05-21_009.trec",
+      "rect" : [0, 0, 1020, 588],
+      "lastMod" : "20210905T045750",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3898],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1020, 588],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Home\\Desktop\\SCRATCH HP\\workbook\\Screenshot_12.png",
+      "rect" : [0, 0, 760, 1076],
+      "lastMod" : "20210903T205620",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 760, 1076],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Home\\Desktop\\SCRATCH HP\\workbook\\Screenshot_13.png",
+      "rect" : [0, 0, 764, 1073],
+      "lastMod" : "20210903T205634",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 764, 1073],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 4,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 116.5,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 5,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 09-05-21_009"
+                    },
+                    "parameters" : {
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.83673469387755,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.83673469387755,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 3495,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 3495,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 6,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Screenshot_12"
+                    },
+                    "parameters" : {
+                      "translation0" : -776.050252120904,
+                      "translation1" : -435.612692017255,
+                      "scale0" : 0.422853794096554,
+                      "scale1" : 0.422853794096554
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1522,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 0.546468401486989,
+                      "default-scale1" : 0.546468401486989,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 7,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Screenshot_13"
+                    },
+                    "parameters" : {
+                      "translation0" : 443.233433069683,
+                      "translation1" : -276.299168975035,
+                      "scale0" : 0.393486045028755,
+                      "scale1" : 0.393486045028755
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1522,
+                    "duration" : 1968,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1968,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.547996272134203,
+                      "default-scale1" : 0.547996272134203,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 8,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -236.789278027746,
+                      "translation1" : 161.842105262965
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1522,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 9,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -235.473486747185,
+                      "translation1" : 130.263157894516
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1896,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 10,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -235.473486747185,
+                      "translation1" : 106.578947368205
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2107,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 11,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -235.473486747185,
+                      "translation1" : 67.1052631576801
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2289,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 12,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -235.473486747185,
+                      "translation1" : 38.157894736656
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2549,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -304,
+                    "attributes" : {
+                      "ident" : "Screenshot_12"
+                    },
+                    "parameters" : {
+                      "translation0" : -407.8947368421,
+                      "translation1" : -163.157894736933,
+                      "scale0" : 0.546468401486989,
+                      "scale1" : 0.546468401486989
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3035,
+                    "duration" : 454,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 454,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 291.60597258805,
+                      "translation1" : -130.332409771476
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1522,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 292.921763868611,
+                      "translation1" : -161.911357139925
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1896,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 292.921763868611,
+                      "translation1" : -185.595567666236
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2107,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 292.921763868611,
+                      "translation1" : -225.069251876761
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2289,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 12.1052631578715,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -164.473684210571,
+                      "tail-y" : 33.9473684210642,
+                      "width" : 71.0526315788571,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 292.921763868611,
+                      "translation1" : -235.595567666209
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2549,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 5,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Home\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\A71bf3e81c.autosave.tscproj",
+    "CanvasZoom" : 22,
+    "Date" : "2021-09-05 07:14:58 ",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "A7",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}

@@ -1,0 +1,38 @@
+Caiet de Activitati Nr 1 CLASA Va -SCRATCH - NIVEL I - INFORMATICĂ ȘI TIC – dupa PROGRAMA SCOLARA
+Caietul PLEACA DE LA ZERO si contine rezolvarea a 31 de probleme prin construirea unor algoritmi de prelucrare a informației - conform cu PROGRAMEI SCOLARE DE CLASA aVa
+Nivelul 1
+Introducere
+Înțelegeți blocurile „mișcare 1”
+Înțelegeți blocurile „miscare 2”
+Înțelegerea blocurilor „punct de direcție”
+Înțelegerea blocurilor „punct în direcție 2”
+Mutați-vă în zigzag.
+Să-l mutăm pătrat.
+dIo280854!
+
+Animații care se mișcă la stânga și la dreapta.
+Intr-un unghi.
+Animație de mers pe jos.
+Mai multe costume
+Mai multe costume 2.
+Să miau și să-l mutăm.
+Nivelul 2
+Să-l mutăm în formă de cerc.
+Utilizați tastele săgeată pentru a o muta.
+Faceți clic pentru a muta sprite-ul.
+Folosiți o varietate de taste (introducere).
+Să schimbăm dimensiunea.
+Să-l facem mai mare mișcându-l.
+Să-l micșorăm mutându-l.
+Intermitent și schimbare costum.
+Alegeți costumul direct.
+Repetare cu un număr fix de ori.
+Să desenăm un dreptunghi cu un stilou.
+Să desenăm un cerc cu un stilou.
+Să desenăm un triunghi cu un stilou.
+Să facem pisica să sară.
+Desenați o linie punctată.
+Desenați o imagine cu mouse-ul.
+Să desenăm un cerc dublu.
+Să desenăm cercuri una lângă alta.
+Comanda Acum

@@ -1,0 +1,2931 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Home\\Documents\\Camtasia\\Rec 09-05-21_029.trec",
+      "rect" : [0, 0, 1028, 540],
+      "lastMod" : "20210905T190237",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3542],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1028, 540],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Home\\Desktop\\SCRATCH HP\\images\\Screenshot_54.png",
+      "rect" : [0, 0, 453, 347],
+      "lastMod" : "20210904T074956",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 453, 347],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Home\\Desktop\\SCRATCH HP\\images\\Screenshot_55.png",
+      "rect" : [0, 0, 539, 387],
+      "lastMod" : "20210904T075010",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 539, 387],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 4,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 118.066666666667,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 5,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 09-05-21_029"
+                    },
+                    "parameters" : {
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.86770428015564,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.86770428015564,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 3542,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 3542,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 6,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Screenshot_54"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -783.938826302945,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -369.416519278128,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.777312025151569,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.777312025151569,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 2014,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : -0.5,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 7,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Screenshot_55"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 715.822997415943,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -328.961973823972,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.906037115339432,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.906037115339432,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 3452,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : -0.5,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 8,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 33.6363636363694,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -138.636363636397,
+                      "tail-y" : 23.1818181818153,
+                      "width" : 122.727272727207,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -494.090909090494,
+                      "translation1" : 254.545454545628
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 222,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 9,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -494.090909090494,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 208.636363810229,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 845,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 10,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -494.090909090494,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 164.545454545869,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1164,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 11,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -494.090909090494,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 103.772727619665,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1595,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 12,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -432.727273073668,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 63.3181821652799,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1834,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 13,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -494.09090909024,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -16.8181819914233,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2088,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 14,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -494.090909090428,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -88.3636361901317,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2596,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -475.90909090861,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -136.825610014103,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2841,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 16,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832048,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -188.643792178827,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 222,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832048,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -234.552882914226,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 845,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832048,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -251.371064905845,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1164,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832048,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -312.143791832049,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1595,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 533.009630848738,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -328.96197382367,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1834,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832176,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -377.598337633686,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2088,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832114,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -431.552882914549,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2596,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 23,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.258823529411765,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.988235294117647,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 33.6363636363694,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -138.636363636397,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 23.1818181818153,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 122.727272727207,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 471.645994832009,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -455.643791832121,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 2841,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 5,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 22,
+    "Date" : "2021-09-05 09:58:22 ",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "A26",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
